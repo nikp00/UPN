@@ -1,0 +1,563 @@
+*{padding: 0;
+  margin: 0;
+  color:  #ff674d;
+}
+.main{
+  height: 99mm;
+  width: 210mm;
+
+}
+.left{
+  float: left;
+  height: 99mm;
+  width: 60mm;
+}
+.right{
+  float: right;
+  height: 99mm;
+  width: 150mm;
+}
+.top{
+  height: 55mm;
+  width: 150mm;
+  background: hsla(9, 100%, 65%, 0.3);
+
+}
+.bottom{
+  height: 44mm;
+  width: 150mm;
+  background: hsla(41, 100%, 53%, 0.2);
+}
+.A1{
+  position: absolute;
+  left: 32.6mm;
+  top: 2mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 10pt;
+  color: black;
+}
+.A2{
+  position: absolute;
+  left: 4mm;
+  top: 3.5mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+.A3{
+  position: absolute;
+  left: 4mm;
+  top: 6mm;
+  width: 52.5mm;
+  height: 13.5mm;
+  border: 1px solid #ff674d;
+}
+
+.A4{
+  position: absolute;
+  left: 4mm;
+  top: 20mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A5{
+  position: absolute;
+  left: 4mm;
+  top: 22.5mm;
+  width: 52.5mm;
+  height: 9mm;
+  border: 1px solid #ff674d;
+}
+
+.A6{
+  position: absolute;
+  left: 16.5mm;
+  top: 32mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A7{
+  position: absolute;
+  left: 7.8mm;
+  top: 35.6mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 11pt;
+  color: black;
+}
+
+.A8{
+  position: absolute;
+  left: 16.5mm;
+  top: 34.5mm;
+  width: 40mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+}
+
+.A9{
+  position: absolute;
+  left: 4mm;
+  top: 40mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A10{
+  position: absolute;
+  left: 4mm;
+  top: 42.5mm;
+  width: 52.5mm;
+  height: 13.5mm;
+  border: 1px solid #ff674d;
+  }
+
+.A11{
+  position: absolute;
+  left: 4mm;
+  top: 56.5mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A12{
+  position: absolute;
+  left: 4mm;
+  top: 59mm;
+  width: 52.5mm;
+  height: 13.5mm;
+  border: 1px solid #ff674d;
+}
+
+.A14{
+  position: absolute;
+  left: 13.8mm;
+  top: 97mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 6pt;
+}
+
+.A15{
+  position: absolute;
+  left: 61mm;
+  top: 1mm;
+  width: 1.5mm;
+  height: 1.5mm;
+  background: black;
+}
+
+.A16{
+  position: absolute;
+  left: 207.5mm;
+  top: 1mm;
+  width: 1.5mm;
+  height: 1.5mm;
+  background: black;
+}
+
+.A17{
+  position: absolute;
+  left: 63.5mm;
+  top: 3.5mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A18{
+  position: absolute;
+  left: 106.5mm;
+  top: 3.5mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A19{
+  position: absolute;
+  left: 184.3mm;
+  top: 3.5mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A20{
+  position: absolute;
+  left: 196.1mm;
+  top: 3.5mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A21{
+  position: absolute;
+  left: 63.3mm;
+  top: 6mm;
+  width: 40mm;
+  height: 39.5mm;
+  border: 1px solid #ff674d;
+  background: white;
+}
+
+.A22{
+  position: absolute;
+  left: 106.5mm;
+  top: 6mm;
+  width: 71.25mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+  background-color: white;
+  background-image: url("../img/A22.svg");
+  background-size: 71.25mm 5mm;
+  background-repeat: no-repeat;
+}
+
+.A23{
+  position: absolute;
+  left: 185.2mm;
+  top: 6.5mm;
+  width: 4mm;
+  height: 4mm;
+  border: 1px solid #ff674d;
+  background: white;
+}
+
+.A24{
+  position: absolute;
+  left: 196.5mm;
+  top: 6.5mm;
+  width: 4mm;
+  height: 4mm;
+  border: 1px solid #ff674d;
+  background: white;
+}
+
+.A26{
+  position: absolute;
+  left: 106.5mm;
+  top: 11.5mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A27{
+  position: absolute;
+  left: 106.5mm;
+  top: 14mm;
+  width: 15mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A27.svg");
+  background-size: 15mm 5mm;
+  background-repeat: no-repeat;
+}
+
+.A28{
+  position: absolute;
+  left: 123.5mm;
+  top: 14mm;
+  width: 82.5mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A28.svg");
+  background-size: 82.5mm 5mm;
+  background-repeat: no-repeat;
+}
+
+.A29{
+  position: absolute;
+  left: 106.5mm;
+  top: 19.5mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A30{
+  position: absolute;
+  left: 106.5mm;
+  top: 22mm;
+  width: 99.5mm;
+  height: 15mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A30.svg");
+  background-size: 99.5mm 15mm;
+  background-repeat: no-repeat;
+}
+
+.A33{
+  position: absolute;
+  left: 106.5mm;
+  top: 41.6mm;
+  font-family: "Myriad pro";
+  font-size: 11pt;
+  color: black;
+}
+
+.A34{
+  position: absolute;
+  left: 114.2mm;
+  top: 38mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A35{
+  position: absolute;
+  left: 161.2mm;
+  top: 38mm;
+  font-family: "Myriad pro Semibold";
+  font-size: 7pt;
+}
+
+.A36{
+  position: absolute;
+  left: 195.3mm;
+  top: 38mm;
+  font-family: "Myriad pro";
+  font-size: 7pt;
+}
+
+.A37{
+  position: absolute;
+  left: 114.2mm;
+  top: 40.5mm;
+  width: 41.25mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A37.svg");
+  background-size: 41.25mm 5mm;
+  background-repeat: no-repeat;
+}
+
+.A38{
+  position: absolute;
+  left: 161.2mm;
+  top: 40.5mm;
+  width: 30mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A38.svg");
+  background-size: 30mm 5mm;
+  background-repeat: no-repeat;
+}
+
+.A39{
+  position: absolute;
+  left: 196.5mm;
+  top: 41mm;
+  width: 4mm;
+  height: 4mm;
+  border: 1px solid #ff674d;
+  background: white;
+}
+
+.A40{
+  position: absolute;
+  left: 63.5mm;
+  top: 46.5mm;
+  font-family: "Myriad pro";
+  font-size: 7pt;
+}
+
+.A41{
+  position: absolute;
+  left: 80.5mm;
+  top: 46.5mm;
+  font-family: "Myriad pro";
+  font-size: 7pt;
+}
+
+.A42{
+  position: absolute;
+  left: 176.2mm;
+  top: 46.5mm;
+  font-family: "Myriad pro";
+  font-size: 7pt;
+}
+
+.A43{
+  position: absolute;
+  left: 63.5mm;
+  top: 49mm;
+  width: 15mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A43.svg");
+  background-size: 15mm 5mm;
+  background-repeat: no-repeat;
+}
+
+.A44{
+  position: absolute;
+  left: 80.5mm;
+  top: 49mm;
+  width: 93.75mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A44.svg");
+  background-size: 93.75mm 5mm;
+  background-repeat: no-repeat;
+}
+
+.A45{
+  position: absolute;
+  left: 176.2mm;
+  top: 49mm;
+  width: 29.75mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A45.svg");
+  background-size: 29.75mm 5mm;
+  background-repeat: no-repeat;
+}
+
+.A46{
+  position: absolute;
+  left: 63.5mm;
+  top: 55.5mm;
+  font-family: "Myriad pro";
+  font-size: 7pt;
+}
+
+.A47{
+  position: absolute;
+  left: 63.5mm;
+  top: 58mm;
+  width: 127.5mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A47.svg");
+  background-size: 127.5mm 5mm;
+  background-repeat: no-repeat;
+}
+
+.A48{
+  position: absolute;
+  left: 194.3mm;
+  top: 59.1mm;
+  font-family: "Myriad pro";
+  font-size: 10pt;
+  color: black;
+}
+
+.A49{
+  position: absolute;
+  left: 63.5mm;
+  top: 63.5mm;
+  font-family: "Myriad pro";
+  font-size: 7pt;
+}
+
+.A50{
+  position: absolute;
+  left: 63.5mm;
+  top: 66mm;
+  width: 15mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A50.svg");
+  background-size: 15mm 5mm;
+  background-repeat: no-repeat;
+}
+
+.A51{
+  position: absolute;
+  left: 80.5mm;
+  top: 66mm;
+  width: 82.5mm;
+  height: 5mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A51.svg");
+  background-size: 82.5mm 5mm;
+  background-repeat: no-repeat;
+}
+
+.A52{
+  position: absolute;
+  left: 166mm;
+  top: 66mm;
+  width: 40mm;
+  height: 23mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A52.svg");
+  background-size: 40mm 23mm;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.A53{
+  position: absolute;
+  left: 63.5mm;
+  top: 71.5mm;
+  font-family: "Myriad pro";
+  font-size: 7pt;
+}
+
+.A54{
+  position: absolute;
+  left: 63.5mm;
+  top: 74mm;
+  width: 99.5mm;
+  height: 15mm;
+  border: 1px solid #ff674d;
+  background: white;
+  background-image: url("../img/A54.svg");
+  background-size: 99.5mm 15mm;
+  background-repeat: no-repeat;
+}
+
+.A58{
+  position: absolute;
+  left: 172mm;
+  top: 86mm;
+  font-family: "Myriad pro";
+  font-size: 7pt;
+}
+
+.A61{
+  position: absolute;
+  left: 118.9mm;
+  top: 97mm;
+  font-family: "Myriad pro";
+  font-size: 7pt;
+}
+
+.A63{
+  position: absolute;
+  left: 207.5mm;
+  top: 96.5mm;
+  width: 1.5mm;
+  height: 1.5mm;
+  background: black;
+}
+
+*:focus {
+    outline: none;
+}
+textarea, input{
+  resize: none;
+  color: black;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+   border: none;
+}
+
+input[type=checkbox].css-checkbox { position: absolute;  overflow: hidden;  clip: rect(0 0 0 0);  height:1px;  width:1px;  margin:-1px;  padding:0; border:0; }
+input[type=checkbox].css-checkbox + label.css-label { padding-left:20px; height:15px;  display:inline-block; line-height:15px; background-repeat:no-repeat; background-position: 0 0; font-size:15px; vertical-align:middle; cursor:pointer; }
+input[type=checkbox].css-checkbox:checked + label.css-label { background-position: 0 -15px; }  .css-label{ background-image:url(http://csscheckbox.com/checkboxes/lite-x-red.png); }
+
+
+div.sign iFrame {
+       width:215px!important; //!important is used because the width is set inline on the iframe
+   }
